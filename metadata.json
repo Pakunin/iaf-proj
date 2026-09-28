@@ -1,0 +1,6 @@
+{
+  "name": "Kala Archive — CLA-I Indian Art History & Fusion Studio",
+  "description": "Interactive Indian Art Timeline (CO1), Leaflet Art Heritage Map (CO1), and Warli × Kalamkari Regional Painting Fusion Studio (CO2) with standalone inbuilt HTML assignment exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
